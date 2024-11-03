@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.22324875.css",
-    "main.js": "/static/js/main.159af966.js",
+    "main.css": "/static/css/main.e1c31235.css",
+    "main.js": "/static/js/main.cf3aee32.js",
     "static/media/about.jpg": "/static/media/about.965dcc5197cc573a90e7.jpg",
+    "static/media/김동혁_202044005.jpg": "/static/media/김동혁_202044005.3973f375448fc6ccfe6c.jpg",
+    "static/media/email.svg": "/static/media/email.91ada430e7c0feff03fa61ef086bb5c0.svg",
+    "static/media/calendar.svg": "/static/media/calendar.ea12ce11239e4ab5ac0a875a67f5be0e.svg",
     "index.html": "/index.html",
-    "main.22324875.css.map": "/static/css/main.22324875.css.map",
-    "main.159af966.js.map": "/static/js/main.159af966.js.map"
+    "static/media/phone.svg": "/static/media/phone.8b5d9c99f8fbee37652e1a98ef0cc4d6.svg",
+    "main.e1c31235.css.map": "/static/css/main.e1c31235.css.map",
+    "main.cf3aee32.js.map": "/static/js/main.cf3aee32.js.map"
   },
   "entrypoints": [
-    "static/css/main.22324875.css",
-    "static/js/main.159af966.js"
+    "static/css/main.e1c31235.css",
+    "static/js/main.cf3aee32.js"
   ]
 }
