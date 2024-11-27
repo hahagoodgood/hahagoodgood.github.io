@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1c31235.css",
-    "main.js": "/static/js/main.a9d7a4df.js",
-    "static/media/about.jpg": "/static/media/about.965dcc5197cc573a90e7.jpg",
-    "static/media/김동혁_202044005.jpg": "/static/media/김동혁_202044005.3973f375448fc6ccfe6c.jpg",
+    "main.css": "/static/css/main.912df065.css",
+    "main.js": "/static/js/main.f66640bf.js",
+    "static/media/GAGOOD.png": "/static/media/GAGOOD.7255de4558091fbfc6df.png",
+    "static/media/android.png": "/static/media/android.dc188b29f31bea1be0f5.png",
+    "static/media/simulation.png": "/static/media/simulation.4f8fcf6362b2eb84cbeb.png",
+    "static/media/github.svg": "/static/media/github.d1bb13ce1a593d82e4c0d821dc7f1b41.svg",
     "static/media/email.svg": "/static/media/email.91ada430e7c0feff03fa61ef086bb5c0.svg",
     "static/media/calendar.svg": "/static/media/calendar.ea12ce11239e4ab5ac0a875a67f5be0e.svg",
     "index.html": "/index.html",
     "static/media/phone.svg": "/static/media/phone.8b5d9c99f8fbee37652e1a98ef0cc4d6.svg",
-    "main.e1c31235.css.map": "/static/css/main.e1c31235.css.map",
-    "main.a9d7a4df.js.map": "/static/js/main.a9d7a4df.js.map"
+    "main.912df065.css.map": "/static/css/main.912df065.css.map",
+    "main.f66640bf.js.map": "/static/js/main.f66640bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1c31235.css",
-    "static/js/main.a9d7a4df.js"
+    "static/css/main.912df065.css",
+    "static/js/main.f66640bf.js"
   ]
 }
