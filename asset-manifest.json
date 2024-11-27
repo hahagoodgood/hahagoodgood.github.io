@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.912df065.css",
-    "main.js": "/static/js/main.f66640bf.js",
+    "main.js": "/static/js/main.44dc4f64.js",
     "static/media/GAGOOD.png": "/static/media/GAGOOD.7255de4558091fbfc6df.png",
     "static/media/android.png": "/static/media/android.dc188b29f31bea1be0f5.png",
     "static/media/simulation.png": "/static/media/simulation.4f8fcf6362b2eb84cbeb.png",
@@ -11,10 +11,10 @@
     "index.html": "/index.html",
     "static/media/phone.svg": "/static/media/phone.8b5d9c99f8fbee37652e1a98ef0cc4d6.svg",
     "main.912df065.css.map": "/static/css/main.912df065.css.map",
-    "main.f66640bf.js.map": "/static/js/main.f66640bf.js.map"
+    "main.44dc4f64.js.map": "/static/js/main.44dc4f64.js.map"
   },
   "entrypoints": [
     "static/css/main.912df065.css",
-    "static/js/main.f66640bf.js"
+    "static/js/main.44dc4f64.js"
   ]
 }
