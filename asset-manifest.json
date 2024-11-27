@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.912df065.css",
+    "main.css": "/static/css/main.cd29184c.css",
     "main.js": "/static/js/main.44dc4f64.js",
     "static/media/GAGOOD.png": "/static/media/GAGOOD.7255de4558091fbfc6df.png",
     "static/media/android.png": "/static/media/android.dc188b29f31bea1be0f5.png",
@@ -10,11 +10,11 @@
     "static/media/calendar.svg": "/static/media/calendar.ea12ce11239e4ab5ac0a875a67f5be0e.svg",
     "index.html": "/index.html",
     "static/media/phone.svg": "/static/media/phone.8b5d9c99f8fbee37652e1a98ef0cc4d6.svg",
-    "main.912df065.css.map": "/static/css/main.912df065.css.map",
+    "main.cd29184c.css.map": "/static/css/main.cd29184c.css.map",
     "main.44dc4f64.js.map": "/static/js/main.44dc4f64.js.map"
   },
   "entrypoints": [
-    "static/css/main.912df065.css",
+    "static/css/main.cd29184c.css",
     "static/js/main.44dc4f64.js"
   ]
 }
